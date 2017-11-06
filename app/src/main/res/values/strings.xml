@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="sender">From, infocodez</string>
+    <string name="recipient">Happy birthday to Linda!</string>
+</resources>
